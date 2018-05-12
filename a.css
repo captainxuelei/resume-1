@@ -40,7 +40,7 @@ a {
     display: block;
 }
 .topNavBar > nav > ul > li >a:hover {
-    border-bottom: 3px solid transparent;
+    border-bottom: 3px solid #DC6465;
 }
 .topNavBar .logo {
     font-size: 24px;
